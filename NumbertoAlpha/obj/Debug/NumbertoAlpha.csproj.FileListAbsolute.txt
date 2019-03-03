@@ -1,0 +1,10 @@
+c:\users\eshee\source\repos\NumbertoAlpha\NumbertoAlpha\bin\Debug\NumbertoAlpha.exe.config
+c:\users\eshee\source\repos\NumbertoAlpha\NumbertoAlpha\bin\Debug\NumbertoAlpha.exe
+c:\users\eshee\source\repos\NumbertoAlpha\NumbertoAlpha\bin\Debug\NumbertoAlpha.pdb
+c:\users\eshee\source\repos\NumbertoAlpha\NumbertoAlpha\obj\Debug\NumbertoAlpha.csprojAssemblyReference.cache
+c:\users\eshee\source\repos\NumbertoAlpha\NumbertoAlpha\obj\Debug\NumbertoAlpha.Form1.resources
+c:\users\eshee\source\repos\NumbertoAlpha\NumbertoAlpha\obj\Debug\NumbertoAlpha.Properties.Resources.resources
+c:\users\eshee\source\repos\NumbertoAlpha\NumbertoAlpha\obj\Debug\NumbertoAlpha.csproj.GenerateResource.cache
+c:\users\eshee\source\repos\NumbertoAlpha\NumbertoAlpha\obj\Debug\NumbertoAlpha.csproj.CoreCompileInputs.cache
+c:\users\eshee\source\repos\NumbertoAlpha\NumbertoAlpha\obj\Debug\NumbertoAlpha.exe
+c:\users\eshee\source\repos\NumbertoAlpha\NumbertoAlpha\obj\Debug\NumbertoAlpha.pdb
